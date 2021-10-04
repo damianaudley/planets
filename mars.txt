@@ -1,5 +1,8 @@
 Cold and dry, but everything is my favourite colour.
 There is very little oxygen here.
+<<<<<<< HEAD
 There are two moons, Phobos and Deimos, good for nice pictures.
 Venus looks better.
+=======
+>>>>>>> parent of 9dbb932... Discuss the presence of two moons.
 
