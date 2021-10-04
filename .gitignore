@@ -1,5 +1,5 @@
 data
-results/plots
+results
 .*.swp
 .*~
 
@@ -8,3 +8,4 @@ results/plots
 # !      whitelist a pattern
 
 !data/README.md
+!results/data
